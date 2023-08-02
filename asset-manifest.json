@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CountApp/static/css/main.91d831ae.css",
+    "main.js": "/CountApp/static/js/main.cd100bdf.js",
+    "static/js/787.fe5040cf.chunk.js": "/CountApp/static/js/787.fe5040cf.chunk.js",
+    "static/media/Background.jpg": "/CountApp/static/media/Background.4ab48fab10e0cb0fb3b8.jpg",
+    "index.html": "/CountApp/index.html",
+    "main.91d831ae.css.map": "/CountApp/static/css/main.91d831ae.css.map",
+    "main.cd100bdf.js.map": "/CountApp/static/js/main.cd100bdf.js.map",
+    "787.fe5040cf.chunk.js.map": "/CountApp/static/js/787.fe5040cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91d831ae.css",
+    "static/js/main.cd100bdf.js"
+  ]
+}
